@@ -1,6 +1,6 @@
-# 👋 Welcome to MF.DEV
+# Welcome to MF.DEV-MANANDAZA François
 
-<h1 align="center">Hi, I'm Manandaza François 🚀</h1>
+<h1 align="center">Hi, I'm Manandaza François </h1>
 <table align="center">
 <tr>
 <td>
@@ -8,9 +8,9 @@
 </td>
 <td>
 
-# <span style="color:#FFB000;">⚡ MF.DEV ⚡</span>
+# <span style="color:#FFB000;">MF.DEV </span>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FFB000&background=00000000&center=false&vCenter=true&repeat=true&width=500&lines=🚀+Full+Stack+Developer;🔥+Modern+UI%2FUX+Designer;💻+React+%2B+Node.js+Developer;⚡+Creative+Digital+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FFB000&background=00000000&center=false&vCenter=true&repeat=true&width=500&lines=+Full+Stack+Developer;+Modern+UI%2FUX+Designer;+React+%2B+Node.js+Developer;+Creative+Digital+Builder" />
 
 </td>
 </tr>
@@ -19,7 +19,7 @@
 <h3 align="center">Full Stack Developer • Digital Creative • Media & Web Enth
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=FF7B00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=⚡+WELCOME+TO+MF.DEV+⚡;🚀+MANANDAZA+FRANÇOIS;💻+FULL+STACK+DEVELOPER;🎨+MODERN+UI%2FUX+DESIGNER;🔥+BUILDING+FUTURISTIC+WEB+EXPERIENCES" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=FF7B00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=+WELCOME+TO+MF.DEV+;+MANANDAZA+FRANÇOIS;+FULL+STACK+DEVELOPER;+MODERN+UI%2FUX+DESIGNER;+BUILDING+FUTURISTIC+WEB+EXPERIENCES" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+#  About Me
 
 ```yaml
 Name: Manandaza François
@@ -43,9 +43,9 @@ Speciality: Modern Web Applications
 Focus: UI/UX + Media Platforms + Web Technologies
 ```
 
-✨ Passionate about creating modern, elegant and high-performance websites.
+Passionate about creating modern, elegant and high-performance websites.
 
-🔥 Focused on:
+Focused on:
 
 * Full Stack Development
 * Media & Streaming Platforms
@@ -55,7 +55,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,wordpress,github,vscode" />
@@ -63,19 +63,19 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project                         | Description                      |
 | ------------------------------- | -------------------------------- |
-| 📺 TV Streaming Platform        | Modern media & TV platform       |
-| 📰 News Website                 | Professional digital news system |
-| 💼 Portfolio Website            | Modern animated portfolio        |
-| 🎓 University Management System | Academic management dashboard    |
-| 📊 Media Dashboard              | Multimedia administration panel  |
+| TV Streaming Platform        | Modern media & TV platform       |
+| News Website                 | Professional digital news system |
+| Portfolio Website            | Modern animated portfolio        |
+| University Management System | Academic management dashboard    |
+| Media Dashboard              | Multimedia administration panel  |
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -85,7 +85,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 🔥 Contribution Activity
+# Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
@@ -93,7 +93,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -111,7 +111,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 🧠 Quote
+# Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -119,7 +119,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 🐍 Contribution Snake Animation
+# Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -127,7 +127,7 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=orange&style=for-the-badge" />
@@ -135,4 +135,4 @@ Focus: UI/UX + Media Platforms + Web Technologies
 
 ---
 
-<h3 align="center">⚡ MF.DEV — Building The Future With Code ⚡</h3>
+<h3 align="center"> MF.DEV — Building The Future With Code </h3>
