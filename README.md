@@ -1,7 +1,22 @@
 # 👋 Welcome to MF.DEV
 
 <h1 align="center">Hi, I'm Manandaza François 🚀</h1>
-<h3 align="center">Full Stack Developer • Digital Creative • Media & Web Enthusiast</h3>
+<table align="center">
+<tr>
+<td>
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="140" style="border-radius:50%;" />
+</td>
+<td>
+
+# <span style="color:#FFB000;">⚡ MF.DEV ⚡</span>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FFB000&background=00000000&center=false&vCenter=true&repeat=true&width=500&lines=🚀+Full+Stack+Developer;🔥+Modern+UI%2FUX+Designer;💻+React+%2B+Node.js+Developer;⚡+Creative+Digital+Builder" />
+
+</td>
+</tr>
+</table>
+
+<h3 align="center">Full Stack Developer • Digital Creative • Media & Web Enth
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=FF7B00&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=⚡+WELCOME+TO+MF.DEV+⚡;🚀+MANANDAZA+FRANÇOIS;💻+FULL+STACK+DEVELOPER;🎨+MODERN+UI%2FUX+DESIGNER;🔥+BUILDING+FUTURISTIC+WEB+EXPERIENCES" />
