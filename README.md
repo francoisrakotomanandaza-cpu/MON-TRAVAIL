@@ -9,7 +9,7 @@
 
 # <span style="color:#FFB000;">MF.DEV </span>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FFB000&background=00000000&center=false&vCenter=true&repeat=true&width=500&lines=+MANANDAZA+FRANÇOIS;+Developer FUL STACK;+Modern+UI%2FUX+Designer;+React+%2B+Node.js+Developer;+Creative+Digital+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FFB000&background=00000000&center=false&vCenter=true&repeat=true&width=500&lines=+MANANDAZA+FRANÇOIS;+Developer+ful+stack;+Modern+UI%2FUX+Designer;+React+%2B+Node.js+Developer;+Creative+Digital+Builder" />
 
 </td>
 </tr>
